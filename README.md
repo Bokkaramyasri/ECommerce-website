@@ -13,5 +13,10 @@ e-commerce-website/
     └── (product images)
 # License
 This project is open-source and available under the MIT License.
-# Demo video
-[![Demo Video](https://images..jpg)]
+## Screenshots
+
+### 🛒 Home Page
+![Home Page](images/home-page.png)
+
+### 🛍️ Product Page
+![Product Page](images/product-page.png)
