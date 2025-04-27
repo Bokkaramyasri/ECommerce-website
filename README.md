@@ -14,4 +14,4 @@ e-commerce-website/
 # License
 This project is open-source and available under the MIT License.
 # Demo video
-[![Demo Video](https://image..jpg)]
+[![Demo Video](https://images..jpg)]
